@@ -1,1 +1,1 @@
-print("Aprendiendo a taggeear cosas aaaaaaaaa y logginggg")
+print("Aprendiendo a taggeear cosas y loginggg")
